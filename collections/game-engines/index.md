@@ -1,6 +1,7 @@
 ---
 items:
  - godotengine/godot
+ - bevyengine/bevy
  - turbulenz/turbulenz_engine
  - TorqueGameEngines/Torque3D
  - TorqueGameEngines/Torque2D
@@ -41,7 +42,6 @@ items:
  - coronalabs/corona
  - hajimehoshi/ebiten
  - HaxeFoundation/haxe
- - bevyengine/bevy
  - aws/lumberyard
  - FlaxEngine/FlaxEngine
  - ObEngine/ObEngine
